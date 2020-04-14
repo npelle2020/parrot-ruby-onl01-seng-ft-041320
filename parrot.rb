@@ -1,2 +1,2 @@
 def parrot(squawk)
-  puts 
+  puts "#{squawk"
