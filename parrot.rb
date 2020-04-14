@@ -1,4 +1,4 @@
-def parrot(phrase = "Squawk!")
+learndef parrot(phrase = "Squawk!")
 puts phrase
 return phrase
 end
